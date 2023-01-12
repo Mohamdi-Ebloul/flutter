@@ -1,4 +1,4 @@
-#Wed Jan 11 22:19:13 GMT 2023
+#Thu Jan 12 18:58:24 GMT 2023
 base.0=/home/mohamdi/StudioProjects/AppSantee/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
